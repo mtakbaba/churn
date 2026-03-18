@@ -1,6 +1,4 @@
-line1
-line2
-line3
+değiştirilen satır
 line4
 line5
 line6
