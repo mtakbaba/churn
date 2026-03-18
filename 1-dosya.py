@@ -1,6 +1,4 @@
-line1
-line2
-line3
+one churn (three lines churned)
 line4
 line5
 line6
